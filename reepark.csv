@@ -197,7 +197,7 @@ stroke-opacity: 1;
 
 /* logo i printhoved */
 #print-header-logo {
-    background-image: url('https://raw.githubusercontent.com/Geosmeden/rmg/main/logo/reep_logo.png');
+    background-image: url('https://raw.githubusercontent.com/Geosmeden/css/refs/heads/main/reep_logo.png');
     background-repeat: no-repeat;
     background-position: 50% 50%;
     background-size: 70%;
